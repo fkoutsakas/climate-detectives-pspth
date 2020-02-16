@@ -52,25 +52,26 @@ Climate Detectives του Δημοτικού του Πειραματικού Σ�
 Λίστα προτεινόμενου εξοπλισμού
  
 Για τις ρομποτικές κατασκευές
-4 Edison V2.0 Programmable robots 4x50= 200 ευρώ
-2 EdCreate Edison Robot Creative Kits 2x25 = 50 ευρώ
+
+- 4 Edison V2.0 Programmable robots 4x50= 200 ευρώ
+- 2 EdCreate Edison Robot Creative Kits 2x25 = 50 ευρώ
 
 Για τους φορητούς (wearables) μετρητές θερμοκρασίας
-10 BBC micro:bit boards Go starter pack kits 10x25 = 250 ευρώ
-10 x Low voltage temperature sensor (e.g. Tmp36) 2x10 = 20 ευρώ
-Crocodile clip leads 5 x 10packs 5x3= 15ευρώ
+- 10 BBC micro:bit boards Go starter pack kits 10x25 = 250 ευρώ
+- 10 x Low voltage temperature sensor (e.g. Tmp36) 2x10 = 20 ευρώ
+- Crocodile clip leads 5 x 10packs 5x3= 15ευρώ
 
 Το σχολείο μας διαθέτει ήδη τα παρακάτω στοιχεία του μετεωρολογικού σταθμού και συνεπώς δεν θα χρειαστεί η χρηματοδότηση της προμήθειας του
-1 Raspberry Pi board
-1 microSD card (with Raspbian)
-1 Pi 3 / 3+ capable power supply
-1 HDMI cable
-1 Raspberry Pi Weather Board
-1 SparkFun Weather Meters
-1 DS18B20 Temperature Sensor
-1 Adafruit BME280 Temperature / Pressure / Humidity Sensor
-1 Raspberry Pi GPIO Header
-1 Raspberry Pi HAT Hardware
+- 1 Raspberry Pi board
+- 1 microSD card (with Raspbian)
+- 1 Pi 3 / 3+ capable power supply
+- 1 HDMI cable
+- 1 Raspberry Pi Weather Board
+- 1 SparkFun Weather Meters
+- 1 DS18B20 Temperature Sensor
+- 1 Adafruit BME280 Temperature / Pressure / Humidity Sensor
+- 1 Raspberry Pi GPIO Header
+- 1 Raspberry Pi HAT Hardware
 
 Ενδεικτικό κόστος: 550 ευρώ
 
