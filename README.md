@@ -27,32 +27,34 @@ Climate Detectives του Δημοτικού του Πειραματικού Σ�
 (2) φορητοί (wearables) μετρητές θερμοκρασίας βασισμένοι σε BBC micro:bit
 (3) προσομοίωση (μακέτα) του νησιωτικού περιβάλλοντος μέσα στο οποίο θα τοποθετηθούν και θα δράσουν οι ρομποτικές κατασκευές 
 ρομποτικές κατασκευές προειδοποίησης και διάσωσης, βασισμένες σε Edison Robots (οχήματα διάσωσης, φάροι προειδοποίησης, υδατοφράχτες, κυματοθραύστες, κ.α.)
-(4) ιστολόγιο που θα έχει ως στόχο του την παρουσίαση και διάχυση του έργου στο οποίο θα αναρτάται η πορεία της εργασίας
-(5) αποθετήριο στο GitHub
+(4) "πλατφόρμα" επικοινωνίας του μετεωρολογικού σταθμού, των wearable micro:bits και των Edison Robots
+(5) ιστολόγιο που θα έχει ως στόχο του την παρουσίαση και διάχυση του έργου στο οποίο θα αναρτάται η πορεία της εργασίας καθώς και αποθετήριο στο GitHub
 (6) ενημερωτικά έντυπα, φυλλάδια και αφίσες για την προβολή των αποτελεσμάτων του προγράμματος
 (7) ενημερωτικές εκδηλώσεις παρουσίασης και διάχυσης του προγράμματος
 
 Λίστα προτεινόμενου εξοπλισμού
  
-Για τον μετεωρολογικό σταθμό
-- 1 Raspberry Pi board
-- 1 microSD card (with Raspbian)
-- 1 Pi 3 / 3+ capable power supply
-- 1 HDMI cable
-- 1 Raspberry Pi Weather Board
-- 1 SparkFun Weather Meters
-- 1 DS18B20 Temperature Sensor
-- 1 Adafruit BME280 Temperature / Pressure / Humidity Sensor
-- 1 Raspberry Pi GPIO Header
-- 1 Raspberry Pi HAT Hardware
-
 Για τις ρομποτικές κατασκευές
-- 4 Edison V2.0 Programmable robots
-- 2 EdCreate Edison Robot Creative Kits
+4 Edison V2.0 Programmable robots 4x50= 200 ευρώ
+2 EdCreate Edison Robot Creative Kits 2x25 = 50 ευρώ
 
 Για τους φορητούς (wearables) μετρητές θερμοκρασίας
-- 3 BBC micro:bit boards
-- 3 Micro USB cable
-- 3 Battery pack with 2 x AAA batteries
-- 3 x Low voltage temperature sensor (e.g. Tmp36)
-- 9 x Crocodile clip leads
+10 BBC micro:bit boards Go starter pack kits 10x25 = 250 ευρώ
+10 x Low voltage temperature sensor (e.g. Tmp36) 2x10 = 20 ευρώ
+Crocodile clip leads 5 x 10packs 5x3= 15ευρώ
+
+Το σχολείο μας διαθέτει ήδη τα παρακάτω στοιχεία του μετεωρολογικού σταθμού και συνεπώς δεν θα χρειαστεί η χρηματοδότηση της προμήθειας του
+1 Raspberry Pi board
+1 microSD card (with Raspbian)
+1 Pi 3 / 3+ capable power supply
+1 HDMI cable
+1 Raspberry Pi Weather Board
+1 SparkFun Weather Meters
+1 DS18B20 Temperature Sensor
+1 Adafruit BME280 Temperature / Pressure / Humidity Sensor
+1 Raspberry Pi GPIO Header
+1 Raspberry Pi HAT Hardware
+
+Ενδεικτικό κόστος: 550 ευρώ
+
+Στο πρόγραμμα αυτό συμμετέχουμε τρεις εκπαιδευτικοί, οι Κουτάκας Φίλιππος, Καρατζίδης Ευστράτιος και Κουτλή Παναγιώτα
